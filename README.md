@@ -18,7 +18,7 @@ Figure 1: NoiseMap at Seed 1
 <br>
 	To create the mesh I used Unreal's ProceduralMeshComponent which is a dependency that has to be manually added in order to generate meshes of procedural geometry. Using asynchronous cooking, I was able to quite quickly render sections of mesh that could be updated by the editor when parameters are adjusted. This was done through several parameter arrays which I created from the first component of the noise data, most importantly including aspects such as the vertices and triangles of the mesh, as well as UV values such that the entire mesh could be covered by a single iteration of a texture. Naturally, the mesh is also created in a matter that can support collision and physics data. 
 
-Figure 1: NoiseMesh at Seed 1
+Figure 2: NoiseMesh at Seed 1
 ![NoiseMesh_Sample_1](https://user-images.githubusercontent.com/65315115/158080470-8505b82f-ee1e-4477-a9fa-e20fa3aaeeb1.png)
 
 <br><br>
