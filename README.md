@@ -1,4 +1,4 @@
-<h1>Unreal Engine Procedural Terrain Generation Project</h1>
+<h1>Procedural Terrain Generation in Unreal</h1>
 <em>Matan Botansky</em>
 <br><br>
 
