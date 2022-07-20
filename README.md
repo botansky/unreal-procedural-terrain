@@ -2,7 +2,7 @@
 <em>Matan Botansky</em>
 <br><br>
 
-The broad idea of this project was to make an actor in UE4 that generates a tile of terrain based on a 3-layer noise calculation that mimics real-life terrain, while utilising a mix of textures in reference to the noise calculation to form its material, all while involving a PRNG seed system that can regenerate the base noise maps for each terrain sample. Project timeline was limited to Spring Break 2022 (only 7 days).
+The broad idea of this project was to make an actor in UE4 that generates a tile of terrain based on a 3-layer noise calculation that mimics real-life terrain, while utilising a mix of textures in reference to the noise calculation to form its material, all while involving a PRNG seed system that can regenerate the base noise maps for each terrain sample.
 <br><br>
 
 <b>Generating the Noise:</b>
@@ -35,4 +35,8 @@ Figure 3: TerrainMesh at Seed 1
 In conclusion, this was a very enjoyable project, and while it did take some time it was well worth it. I believe I achieved what I set out to, and believe that while there is are endless features I could add (i.e. infinite terrain with LODs, foliage, fractals to the noise) that would improve this actor, this feels like a good stopping point for now. I may come back to this in the future.
 
 ~ March 13, 2022
+
+
+Updated version to Unreal Engine 5.
+~ July 20, 2022
 
